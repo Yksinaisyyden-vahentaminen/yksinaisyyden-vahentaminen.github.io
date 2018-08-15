@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tietoa
-permalink: /about/
+permalink: /tietoa/
 ---
 
 Vähennetään yksinäisyyttä yhdessä - kokeilu
