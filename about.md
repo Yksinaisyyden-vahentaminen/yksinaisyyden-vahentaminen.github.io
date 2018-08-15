@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Tietoa
 permalink: /about/
 ---
 
-Some information about you!
+Vähennetään yksinäisyyttä yhdessä - kokeilu
 
-### More Information
+Tarkoitus on kehittää avoimesti yhdessä ratkaisuja yksinäisyyden vähentämiseksi.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Voit ottaa yhteyttä myös sähköpostilla
 
-### Contact me
+[yksinaisyys@kasvatus.info](mailto:yksinaisyys@kasvatus.info)
 
-[email@domain.com](mailto:email@domain.com)
+### Seuraa Twitterissä [@yksinaisyyden_v](https://twitter.com/yksinaisyyden_v)
